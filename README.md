@@ -1,2 +1,2 @@
 # tindog
-Tinder for your dogs (web development practice)
+Tinder for your dogs (web development practice using HTML, CSS, Bootstrap)
